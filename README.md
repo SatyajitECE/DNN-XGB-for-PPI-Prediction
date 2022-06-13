@@ -23,3 +23,6 @@ scikit-learn 0.22.1
 Tensorflow 1.13.1
 Keras 2.3.1
 Xgboost 0.90
+
+
+#For knowing more about my research work: https://tinyurl.com/ybfdjb9
